@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.6)
+  - RSSelectionMenu (7.1.2)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - RSSelectionMenu
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - RSSelectionMenu
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  RSSelectionMenu: f803d0936e074b2fdac2c41bf1d0a5b0c7fdc3e1
+
+PODFILE CHECKSUM: 74f584a6e9d854b32691ad84224b33b8edf89853
+
+COCOAPODS: 1.9.1
